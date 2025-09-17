@@ -8,7 +8,7 @@
 <br>
 
 # Nome do projeto
-CorAI | IA entre Robôs, Sinapses e Medicina
+CorAI | Diagnóstico Automatizado – IA no Estetoscópio Digital
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/bryanjfagundes/">Bryan Fagundes</a>
