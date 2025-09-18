@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+googletrans
+pandas
+tf-keras
