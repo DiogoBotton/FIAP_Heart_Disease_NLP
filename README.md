@@ -42,7 +42,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - **src**: Notebooks com os entregáveis.
 - **src/dataset**: Dataset com 100 frases sintéticas de sintomas de pacientes `sintomas_doencas_cardiacas.csv`.
-- **src/Atv1_Diagnostico**: Notebook `diagnostico.ipynb` com a criação do modelo de classificação, mapa de conhecimento (csv) e o modelo de classificação gerado `modelo_diagnostico_lr_pipeline.joblib`.
+- **src/Atv1_Diagnostico**: Notebook `diagnostico.ipynb` com a criação do modelo de classificação, mapa de conhecimento (csv) e o modelo de classificação gerado `modelo_diagnostico_lr_pipeline.joblib`. Também está presente testes com a similaridade entre frases dos sintomas de pacientes e palavras/expressões do mapa de conhecimento no notebook `similaridade.ipynb`.
 - **src/Atv2_Nivel_Risco**: Notebook `nivel_risco.ipynb` com a criação do modelo de classificação binária (alto risco e baixo risco) e o modelo de classificação gerado `modelo_nivel_risco_lr_pipeline.joblib`.
 
 ## 🔧 Como executar o código
