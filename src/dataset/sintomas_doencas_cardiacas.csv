@@ -4,7 +4,7 @@ frase,diagnostico,risco
 "Estou exausto o dia todo, mesmo sem esforço, e incho os pés à noite.",Insuficiência Cardíaca,Baixo Risco
 "Meu coração acelera de repente durante reuniões, com sensação de tontura.",Arritmia,Alto Risco
 "Pressão no peito ao estressar no trabalho, aliviada ao sentar.",Angina,Baixo Risco
-"Dor lancinante no tórax ao carregar sacolas, piora com suor frio.",Infarto,Alto Risco
+"Dor forte no tórax ao carregar sacolas, piora com suor frio.",Infarto,Alto Risco
 Fadiga extrema me impede de cozinhar jantares simples após o expediente.,Insuficiência Cardíaca,Baixo Risco
 "Batimentos irregulares me acordam à noite, como pulos no peito.",Arritmia,Alto Risco
 "Desconforto torácico leve ao rir com amigos, passa rápido.",Angina,Baixo Risco
@@ -13,7 +13,7 @@ Cansaço persistente reduz minha energia para passeios curtos com o cachorro.,In
 "Palpitações fortes surgem ao dirigir, me forçando a parar o carro.",Arritmia,Alto Risco
 "Aperto no peito ao discutir no telefone, dura pouco.",Angina,Baixo Risco
 Dor intensa no centro do peito com náusea ao levantar da cama.,Infarto,Alto Risco
-"Estou sempre ofegante após tarefas leves, como lavar louça.",Insuficiência Cardíaca,Baixo Risco
+"Estou sempre cansado após tarefas leves, como lavar louça.",Insuficiência Cardíaca,Baixo Risco
 Ritmo cardíaco irregular me deixa ansioso durante chamadas de vídeo.,Arritmia,Alto Risco
 Sensação de queimação no peito ao fumar um cigarro após almoço.,Angina,Baixo Risco
 Dor esmagadora no peito me derrubou no sofá enquanto via TV.,Infarto,Alto Risco
@@ -28,8 +28,8 @@ Cansaço me obriga a pausas frequentes em caminhadas curtas.,Insuficiência Card
 Aceleração cardíaca me faz suar frio em apresentações.,Arritmia,Alto Risco
 Pressão torácica ao carregar o laptop na mochila.,Angina,Baixo Risco
 Dor forte no peito com vômito ao estressar com prazos.,Infarto,Alto Risco
-Ofegância constante afeta minhas conversas longas com colegas.,Insuficiência Cardíaca,Baixo Risco
-Batimentos extras me interrompem enquanto leio à noite.,Arritmia,Baixo Risco
+Ofegância constante e exaustão afeta minhas conversas longas com colegas.,Insuficiência Cardíaca,Baixo Risco
+Batimentos acelerados me interrompem enquanto leio à noite.,Arritmia,Baixo Risco
 "Dor pontada no peito ao andar devagar, some logo.",Angina,Baixo Risco
 Peso no tórax com suor ao subir um lance de degraus.,Infarto,Alto Risco
 Exaustão me deixa sem fôlego para varrer a casa.,Insuficiência Cardíaca,Baixo Risco
@@ -47,7 +47,7 @@ Dor no peito com tontura me parou na rua ontem.,Infarto,Alto Risco
 Batimentos descompassados surgem ao escovar os dentes.,Arritmia,Baixo Risco
 "Desconforto no peito ao virar na cama, passa em segundos.",Angina,Baixo Risco
 Pressão forte no coração com falta de ar ao acordar.,Infarto,Alto Risco
-"Ofegante após pentear o cabelo, preciso sentar.",Insuficiência Cardíaca,Baixo Risco
+"Cansaço após pentear o cabelo, preciso sentar.",Insuficiência Cardíaca,Baixo Risco
 Palpitações violentas me forçam a deitar durante o trabalho.,Arritmia,Alto Risco
 Dor aguda leve ao respirar fundo no ar condicionado.,Angina,Baixo Risco
 Aperto no tórax irradia para o pescoço ao correr.,Infarto,Alto Risco
@@ -59,29 +59,29 @@ Acelerações súbitas me interrompem no meio da refeição.,Arritmia,Alto Risco
 Peso no peito ao carregar uma xícara de chá.,Angina,Baixo Risco
 Dor intensa no centro com suor frio ao deitar.,Infarto,Alto Risco
 Cansaço me obriga a parar de regar as plantas.,Insuficiência Cardíaca,Baixo Risco
-Ritmo irregular me deixa zonzo ao andar pelo quarto.,Arritmia,Baixo Risco
+Ritmo irregular no coração me deixa zonzo ao andar pelo quarto.,Arritmia,Baixo Risco
 Desconforto leve ao engolir saliva durante o jantar.,Angina,Baixo Risco
-Dor esmagadora me paralisou enquanto dirigia devagar.,Infarto,Alto Risco
+Dor esmagadora no peito me paralisou enquanto dirigia devagar.,Infarto,Alto Risco
 Exaustão constante reduz minhas forças para abrir janelas.,Insuficiência Cardíaca,Baixo Risco
 Batimentos rápidos e fracos me acordam ansioso.,Arritmia,Alto Risco
 Aperto no peito ao rir de uma piada no grupo.,Angina,Baixo Risco
-Dor lancinante com vômito ao subir no ônibus.,Infarto,Alto Risco
-Pernas pesadas me cansam em trajetos curtos a pé.,Insuficiência Cardíaca,Baixo Risco
+Pressão intensa no peito com vômito ao subir no ônibus.,Infarto,Alto Risco
+Pernas inchadas me cansam em trajetos curtos a pé.,Insuficiência Cardíaca,Baixo Risco
 Sensação de queima ao fumar após o café da manhã.,Angina,Baixo Risco
 Dor aguda no peito com formigamento na mão ao comer.,Infarto,Alto Risco
 Fadiga me impede de responder e-mails no celular.,Insuficiência Cardíaca,Baixo Risco
 Pulsações erráticas surgem ao deitar para dormir.,Arritmia,Baixo Risco
 Pressão torácica leve ao carregar sacola de pão.,Angina,Baixo Risco
-Aperto súbito com tontura me fez cair da cadeira.,Infarto,Alto Risco
-Ofegância me afeta ao subir um degrau baixo.,Insuficiência Cardíaca,Baixo Risco
+Aperto súbito no coração com tontura me fez cair da cadeira.,Infarto,Alto Risco
+Cansaço me afeta ao subir um degrau baixo.,Insuficiência Cardíaca,Baixo Risco
 Coração disparado me força a pausar a leitura.,Arritmia,Alto Risco
-Dor pontada ao esticar para pegar um livro.,Angina,Baixo Risco
-Dor opressiva irradia para o ombro ao caminhar.,Infarto,Alto Risco
+Dor no peito ao esticar para pegar um livro.,Angina,Baixo Risco
+Dor opressiva irradia para o braço esquerdo ao caminhar.,Infarto,Alto Risco
 Cansaço extremo me deixa sem ar para falar.,Insuficiência Cardíaca,Baixo Risco
 Batimentos irregulares me interrompem no chuveiro.,Arritmia,Alto Risco
 Desconforto no tórax ao beber água gelada.,Angina,Baixo Risco
-Peso forte no peito com suor ao acordar cedo.,Infarto,Alto Risco
-Fraqueza me obriga a sentar após escovar dentes.,Insuficiência Cardíaca,Baixo Risco
+Dor forte no peito com suor ao acordar cedo.,Infarto,Alto Risco
+Cansaço me obriga a sentar após escovar dentes.,Insuficiência Cardíaca,Baixo Risco
 Queimor leve ao tossir no meio da conversa.,Angina,Baixo Risco
 Dor esmagadora com náusea me parou na cozinha.,Infarto,Alto Risco
 Inchaço nas pernas afeta minhas caminhadas matinais.,Insuficiência Cardíaca,Baixo Risco
@@ -89,13 +89,13 @@ Ritmo descompassado me deixa tonto ao sentar.,Arritmia,Baixo Risco
 Aperto torácico ao virar páginas do jornal.,Angina,Baixo Risco
 Dor intensa no coração com falta de ar repentina.,Infarto,Alto Risco
 Exaustão me impede de ligar para a família.,Insuficiência Cardíaca,Baixo Risco
-Palpitações fortes me forçam a deitar no trabalho.,Arritmia,Alto Risco
-Sensação de peso ao carregar o celular no bolso.,Angina,Baixo Risco
-Dor lancinante irradia para o braço ao deitar.,Infarto,Alto Risco
+Palpitações fortes no coração me forçam a deitar no trabalho.,Arritmia,Alto Risco
+Sensação de peso no peito ao carregar o celular no bolso.,Angina,Baixo Risco
+Dor muito forte irradia para o braço esquerdo ao deitar.,Infarto,Alto Risco
 Cansaço persistente reduz minha paciência para tarefas.,Insuficiência Cardíaca,Baixo Risco
-Batimentos extras me acordam suado à noite.,Arritmia,Alto Risco
+Batimentos acelerados me acordam suado à noite.,Arritmia,Alto Risco
 "As vezes sinto meu coração falhar, uma leve falta de ar e tontura.",Arritmia,Baixo Risco
 Dor aguda leve ao respirar no frio da manhã.,Angina,Baixo Risco
-Aperto opressivo com vômito ao estressar.,Infarto,Alto Risco
-Ofegante após arrumar a mesa do café.,Insuficiência Cardíaca,Baixo Risco
-Coração pulando me interrompe no meio do filme.,Arritmia,Baixo Risco
+Aperto no coração com vômito ao estressar.,Infarto,Alto Risco
+Exaustão após arrumar a mesa do café.,Insuficiência Cardíaca,Baixo Risco
+Coração com batimento irregular me interrompe no meio do filme.,Arritmia,Baixo Risco
