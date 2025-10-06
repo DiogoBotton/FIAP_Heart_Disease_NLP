@@ -1,9 +1,10 @@
 sintoma,diagnostico
-Dor ou pressão intensa no peito,Infarto
-Suor frio repentino,Infarto
+Dor forte ou pressão intensa no peito,Infarto
+"Dor forte no tórax, suor frio repentino",Infarto
+Dor forte ou aperto no coração,Infarto
 Falta de ar súbita,Infarto
 Náusea ou vômito associado a dor,Infarto
-Dor irradiando para braço ou mandíbula,Infarto
+Dor irradiando para braço esquerdo ou mandíbula,Infarto
 Sensação de ardor ou compressão no peito,Infarto
 Tontura ou desmaio iminente,Infarto
 "Inchaço nos pés, tornozelos ou pernas",Insuficiência Cardíaca
@@ -11,16 +12,18 @@ Fadiga ou cansaço extremo constante,Insuficiência Cardíaca
 Falta de ar ao deitar ou em repouso,Insuficiência Cardíaca
 Tosse persistente ou chiado no peito,Insuficiência Cardíaca
 Ganho de peso rápido por retenção de líquidos,Insuficiência Cardíaca
-Sensação de fraqueza geral ou falta de energia,Insuficiência Cardíaca
-"Pressão, peso ou opressão no peito",Angina
-Dor ou desconforto irradiando para braços ou pescoço,Angina
-Sensação de indigestão ou ardor no peito,Angina
-Dor que piora com esforço e alivia com repouso,Angina
+"Sensação de fraqueza geral ou falta de energia, exaustão",Insuficiência Cardíaca
+"Pressão, peso ou opressão leves no peito",Angina
+Dor ou desconfortos leves no peito,Angina
+"Sensação de indigestão, ardor ou queimação no peito",Angina
+Dor leve que piora com esforço e alivia com repouso,Angina
 "Malestar na mandíbula, espalda ou estômago",Angina
 Sensação de aperto ou esmagamento no peito,Angina
-Palpitações ou batimentos irregulares,Arritmia
+Palpitações ou batimentos irregulares ou acelerados,Arritmia
 Fadiga ou cansaço excessivo,Arritmia
+Ritmo cardíaco irregular,Arritmia
 Tontura ou sensação de desmaio,Arritmia
+"Sensação do coração falhar, falhas ou pausas no batimento cardíaco",Arritmia
 Dor no peito ou dificuldade para respirar,Arritmia
 Ansiedade ou suor repentino,Arritmia
 Batimentos lentos ou rápidos persistentes,Arritmia

@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+src/dataset/ECG_Arrhythmia_Classification_Dataset.zip
+src/dataset/INCART 2-lead Arrhythmia Database.csv
+src/dataset/MIT-BIH Arrhythmia Database.csv
+src/dataset/MIT-BIH Supraventricular Arrhythmia Database.csv
+src/dataset/Sudden Cardiac Death Holter Database.csv
+src/Ir_Alem_ECG/modelo_ecg_pipeline_rf.joblib
