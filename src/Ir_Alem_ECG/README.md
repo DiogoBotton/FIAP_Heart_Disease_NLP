@@ -1,26 +1,4 @@
-# FIAP - Faculdade de Informática e Administração Paulista
-
-<p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
-</p>
-
-<br>
-
-# Nome do projeto
-CorAI | Diagnóstico Automatizado – IA no Estetoscópio Digital
-
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/bryanjfagundes/">Bryan Fagundes</a>
-- <a href="https://br.linkedin.com/in/brenner-fagundes">Brenner Fagundes</a>
-- <a href="https://www.linkedin.com/in/diogo-botton-46ba49197/">Diogo Botton</a> 
-- <a href="https://www.linkedin.com/in/hyankacoelho/">Hyanka Coelho</a> 
-- <a href="https://www.linkedin.com/in/julianahungaro/">Juliana Hungaro Fidelis</a>
-
-## 👩‍🏫 Professores:
-### Tutor(a) 
-- <a href="https://www.linkedin.com/in/leonardoorabona?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Leonardo Ruiz Orabona</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi</a>
+# Ir Além 2 – Diagnóstico visual em cardiologia com rede neural
 
 ## 📜 Descrição
 
@@ -58,8 +36,7 @@ Este desbalanceamento, visualizado abaixo, faz com que um modelo treinado sem tr
 
 **Distribuição das Classes (Antes do SMOTE)**
 
-*Para gerar esta imagem, execute a célula 8 do notebook e salve o gráfico gerado.*
-![Distribuição das Classes Desbalanceadas](https://via.placeholder.com/800x400.png?text=Insira+aqui+o+gráfico+de+distribuição+de+classes)
+![Distribuição das Classes Desbalanceadas](readme-imgs/img_1.jpeg)
 
 ---
 
@@ -78,8 +55,7 @@ O fluxo de trabalho seguiu 3 etapas principais de modelagem:
 
 **Distribuição das Classes (Depois do SMOTE)**
 
-*Para gerar esta imagem, execute a célula 22 do notebook e salve o gráfico gerado.*
-![Distribuição das Classes Balanceadas](https://via.placeholder.com/800x400.png?text=Insira+aqui+o+gráfico+de+distribuição+após+SMOTE)
+![Distribuição das Classes Balanceadas](readme-imgs/img_2.jpg)
 
 - **Resultado**: Acurácia de **91%** com um **recall superior a 85% para todas as classes**. O modelo se tornou robusto e capaz de identificar os diferentes tipos de arritmia com alta precisão.
 
@@ -92,17 +68,15 @@ O fluxo de trabalho seguiu 3 etapas principais de modelagem:
 
 ## 📈 Resultados
 
-A aplicação do SMOTE foi o fator decisivo para o sucesso do projeto. Abaixo, a matriz de confusão do modelo Random Forest final demonstra sua capacidade de distinguir corretamente entre as classes.
+A aplicação do SMOTE foi o fator que gerou resultados mais promissores em ambos os modelos. Abaixo, a matriz de confusão do modelo Random Forest final demonstra sua capacidade de distinguir corretamente entre as classes.
 
 **Matriz de Confusão - Random Forest com SMOTE**
 
-*Para gerar esta imagem, execute a célula 26 do notebook e salve o gráfico gerado.*
-![Matriz de Confusão do Random Forest](https://via.placeholder.com/600x400.png?text=Insira+aqui+a+matriz+de+confusão+do+RF)
+![Matriz de Confusão do Random Forest](readme-imgs/cm_1.png)
 
 **Matriz de Confusão - Rede Neural**
 
-*Para gerar esta imagem, execute a célula 66 do notebook e salve o gráfico gerado.*
-![Matriz de Confusão da Rede Neural](https://via.placeholder.com/600x400.png?text=Insira+aqui+a+matriz+de+confusão+da+NN)
+![Matriz de Confusão da Rede Neural](readme-imgs/cm_2.png)
 
 ### Tabela Comparativa de Resultados
 
@@ -118,8 +92,8 @@ A aplicação do SMOTE foi o fator decisivo para o sucesso do projeto. Abaixo, a
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/DiogoBotton/FIAP_Heart_Disease_NLP
+   cd FIAP_Heart_Disease_NLP
    ```
 
 2. **Instale as dependências:**
